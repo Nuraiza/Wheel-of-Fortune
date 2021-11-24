@@ -14,7 +14,7 @@ JavaFX
 
  1. Press the Fork to copy this repository to your profile
 
- 2. Clone this project to your local environment by command 
+ 2. Clone this project to your local environment by command:
  git clone https://github.com/nuraiza/wheel-of-fortune.git
  or simply download the project from Download section
 
@@ -23,13 +23,27 @@ JavaFX
 ## How to play? :video_game:
 
 - Player can start the game right away - New Game, or go to Settings. 
+
+
 ![](images/appscreen3.png)
+
+
 - In the settings, it is possible to add new guessing words to the list. The game chooses the guessing word from the Active list, in addition, it is possible to activate/deactivate some words by transferring them between lists. 
+
+
 ![](images/appscreen4.png)
+
+
 - If a new game is started, then it is time to press the Play.
+
+
  ![](images/appscreen.png) 
+ 
+ 
  - After the wheel rotation, a pop-up window appears and asks for a letter.
 - Player has 3 attempts to give the correct letter and obtain the score pointed by the arrow. If the player could not guess the right letter then he does not obtain the score, however, he can continue playing.
+
+
  ![](images/appscreen2.png) 
 
 
