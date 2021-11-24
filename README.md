@@ -1,6 +1,6 @@
 # Wheel of Fortune - word guessing game JavaFX
 ## Intro
-This project is about word guessing game, which consists of many GUI elements built with pure JavaFX.
+This project is about word guessing game, which consists of many GUI elements built with pure JavaFX. The project was developed only for educational purposes.
 
 ## Technologies :hammer_and_pick:
 
@@ -22,22 +22,26 @@ JavaFX
  4. Run the application
 ## How to play? :video_game:
 
-![](java-console-game.png)
- - A game world is 10x10 grid map.
- - X is the player, he can move in 4 directions. To move him please type into console North/South/East/West and Enter.
- - @ is a weapon, player can collect them by going to their location.
- - Be careful, there are some bombs on the map, they are represented as * .
- - Player can get additional health by collecting #.
- - Enemy is patrolling his area, he is represented as Y and is constantly moving up and down. However, it is dangerous to approach to him without any weapon, he can take your health.
- - Time to collect all money - $, and win the game!
+- Player can start the game right away - New Game, or go to Settings. 
+![](images/appscreen3.png)
+- In the settings, it is possible to add new guessing words to the list. The game chooses the guessing word from the Active list, in addition, it is possible to activate/deactivate some words by transferring them between lists. 
+![](images/appscreen4.png)
+- If a new game is started, then it is time to press the Play.
+ ![](images/appscreen.png) 
+ - After the wheel rotation, a pop-up window appears and asks for a letter.
+- Player has 3 attempts to give the correct letter and obtain the score pointed by the arrow. If the player could not guess the right letter then he does not obtain the score, however, he can continue playing.
+ ![](images/appscreen2.png) 
+
+
+
 ## Have fun :smile:
-This project can be easily extended. Many new ideas, functionalities are only welcome! If you want to contribute to this project I am waiting for your pull request :)
+If you want to contribute to this project I am waiting for your pull request :)
 
 ## License :balance_scale:
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE for more information.
 
 
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.txt)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Contact :email:
 <a href="mailto:nuraiza.juraeva@gmail.com">![nuraiza.juraeva@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/nuraiza/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
