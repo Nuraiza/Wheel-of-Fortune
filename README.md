@@ -4,7 +4,7 @@ This project is about word guessing game, which consists of many GUI elements bu
 
 ## Technologies :hammer_and_pick:
 
-Java version 8 or higher
+Java version 8 or higher,
 JavaFX
 
 
